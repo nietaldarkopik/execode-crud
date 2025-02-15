@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/tewst",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Tewst\\": "",
+            "Modules\\Tewst\\App\\": "app/",
+            "Modules\\Tewst\\Database\\Factories\\": "database/factories/",
+            "Modules\\Tewst\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Tewst\\Tests\\": "tests/"
+        }
+    }
+}

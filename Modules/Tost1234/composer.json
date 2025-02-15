@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/tost1234",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Tost1234\\": "",
+            "Modules\\Tost1234\\App\\": "app/",
+            "Modules\\Tost1234\\Database\\Factories\\": "database/factories/",
+            "Modules\\Tost1234\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Tost1234\\Tests\\": "tests/"
+        }
+    }
+}

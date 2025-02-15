@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/sdfsdf",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Sdfsdf\\": "",
+            "Modules\\Sdfsdf\\App\\": "app/",
+            "Modules\\Sdfsdf\\Database\\Factories\\": "database/factories/",
+            "Modules\\Sdfsdf\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Sdfsdf\\Tests\\": "tests/"
+        }
+    }
+}

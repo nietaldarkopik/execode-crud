@@ -1,0 +1,11 @@
+{
+    "name": "Tewst",
+    "alias": "tewst",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tewst\\App\\Providers\\TewstServiceProvider"
+    ],
+    "files": []
+}

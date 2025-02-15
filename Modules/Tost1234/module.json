@@ -1,0 +1,11 @@
+{
+    "name": "Tost1234",
+    "alias": "tost1234",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tost1234\\App\\Providers\\Tost1234ServiceProvider"
+    ],
+    "files": []
+}

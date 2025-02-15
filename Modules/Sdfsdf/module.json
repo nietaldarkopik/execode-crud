@@ -1,0 +1,11 @@
+{
+    "name": "Sdfsdf",
+    "alias": "sdfsdf",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Sdfsdf\\App\\Providers\\SdfsdfServiceProvider"
+    ],
+    "files": []
+}

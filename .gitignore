@@ -6,8 +6,13 @@ yarn-error.log
 # Laravel 4 specific
 bootstrap/compiled.php
 bootstrap/cache/
+bootstrap/cache/*
 app/storage/
 /storage
+storage/framework/views/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/testing/*
 storage/logs/
 
 # Laravel 5 & Lumen specific

@@ -1,3 +1,0 @@
-<?php echo $__env->make("taebo.partials.header", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
-<?php echo $__env->yieldContent('content'); ?>
-<?php echo $__env->make("taebo.partials.footer", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\wamp\www\basooki.com\resources\views/taebo/master-front.blade.php ENDPATH**/ ?>

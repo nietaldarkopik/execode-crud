@@ -1,0 +1,11 @@
+{
+    "name": "MemberType",
+    "alias": "member_type",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MemberType\\App\\Providers\\MemberTypeServiceProvider"
+    ],
+    "files": []
+}

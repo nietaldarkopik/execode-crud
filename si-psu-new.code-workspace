@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../sipsu"
+		},
+		{
+			"path": "../si-psu/admin"
+		},
+		{
+			"path": "../animashit"
+		}
+	],
+	"settings": {}
+}

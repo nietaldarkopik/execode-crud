@@ -1,0 +1,11 @@
+{
+    "name": "Geup",
+    "alias": "geup",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Geup\\App\\Providers\\GeupServiceProvider"
+    ],
+    "files": []
+}

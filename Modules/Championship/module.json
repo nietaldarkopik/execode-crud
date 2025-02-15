@@ -1,0 +1,11 @@
+{
+    "name": "Championship",
+    "alias": "championship",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Championship\\App\\Providers\\ChampionshipServiceProvider"
+    ],
+    "files": []
+}

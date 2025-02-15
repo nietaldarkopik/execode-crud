@@ -8,6 +8,7 @@ bootstrap/compiled.php
 bootstrap/cache/
 app/storage/
 /storage
+storage/logs/
 
 # Laravel 5 & Lumen specific
 public/storage
@@ -31,4 +32,5 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+composer.lock
 /design

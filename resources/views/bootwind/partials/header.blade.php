@@ -36,8 +36,8 @@
 	{{-- <link id="pagestyle" href="{{ asset('basooki/css/material-kit.css?v=3.1.0') }}" rel="stylesheet" /> --}}
 	<link rel="stylesheet" href="{{ asset('basooki/node_modules/slick-carousel/slick/slick.css') }}" />
 	<link rel="stylesheet" href="{{ asset('basooki/node_modules/slick-carousel/slick/slick-theme.css') }}" />
-	{{-- <link rel="stylesheet" href="{{ asset('basooki/css/custom.css') }}" />
-	<link rel="stylesheet" href="{{ asset('basooki/css/custom-atm1.css') }}" /> --}}
+	<link rel="stylesheet" href="{{ asset('basooki/css/custom.css') }}" />
+	<link rel="stylesheet" href="{{ asset('basooki/css/custom-atm1.css') }}" />
 
 	<script type="text/javascript" src="{{ asset('basooki/node_modules/jquery/dist/jquery.min.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('basooki/node_modules/slick-carousel/slick/slick.js') }}"></script>
